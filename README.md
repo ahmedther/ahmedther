@@ -32,7 +32,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,react,svelte,flutter,next" />
-     <img src="/assets/django_rest.svg" alt="Django Rest FrameWork" width="48" height="48">
+     <img src="/assets/django_rest.svg" alt="Django Rest FrameWork" width="53" height="53">
   </a>
 </p>
 <br>
