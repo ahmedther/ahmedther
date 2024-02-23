@@ -1,4 +1,5 @@
-[![MasterHead](https://github.com/ahmedther)](https://github.com/ahmedther)
+<p align="center"><img src="/![alt text](assets/tie_banner.jpg).png"></p>
+
 
 # 💫 About Me:
 👋 Hello, I'm Ahmed<br><br>🚀 About Me<br>I began my journey as a network administrator, preparing for CCNA and harboring an interest in cybersecurity. This led me to the world of coding, which I found I had a real knack for. What started as a hobby soon turned into a passion, as I found myself engrossed in learning various computer languages. I often lost track of time while coding, and this passion eventually evolved into a career path that I deeply enjoy.<br><br>Over time, I've managed to learn a diverse tech stack on my own, without the guidance of a mentor. My particular interest lies in automating repetitive tasks, which not only improves efficiency but also provides me with a unique sense of satisfaction. I continuously strive to enhance my skills and stay updated by learning new technologies.<br><br>I continue to code and learn every day. This continuous learning process keeps me engaged and ensures that I'm always at the forefront of technological advancements. The fact that I can do what I love for a living feels like a bonus. This self-driven learning, passion for automation and technology, and my continuous pursuit of knowledge are what set me apart in my field.<br>
