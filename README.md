@@ -1,4 +1,4 @@
-<p align="center"><img src="/assets/tie_banner.jpg.png"></p>
+<p align="center"><img src="/assets/tie_banner.jpg"></p>
 
 
 # 💫 About Me:
