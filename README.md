@@ -18,7 +18,8 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,dart,html" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,dart,html" /><span><img src="/assets/sql.svg" alt="SVG LOGO" width="60" height="60">
+</span>
   </a>
 </p>
 <br>
@@ -36,8 +37,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=next,redux,styledcomponents," /><span><img src="/assets/sql.svg" alt="SVG LOGO" width="50" height="50">
-</span>
+    <img src="https://skillicons.dev/icons?i=next,redux,styledcomponents," />
   </a> 
 </p>
 <br>
