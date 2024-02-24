@@ -28,7 +28,7 @@
 <br>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=django" />
-    <img  src="/assets/django_rest.svg" alt="Django Rest FrameWork" width="48" height="48">
+    &nbsp;<img  src="/assets/django_rest.svg" alt="Django Rest FrameWork" width="48" height="48">&nbsp;
     <img src="https://skillicons.dev/icons?i=react,svelte,flutter,next,express,pug" />
 
 </p>
