@@ -40,7 +40,9 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=next"/>
     &nbsp;<img  src="/assets/react_router.svg" alt="React Router" width="48" height="48">&nbsp;
-    <img src="https://skillicons.dev/icons?i=redux,styledcomponents," />
+    <img src="https://skillicons.dev/icons?i=redux" />
+    &nbsp;<img  src="/assets/react_query.svg" alt="React Query" width="48" height="48">&nbsp;
+    <img src="https://skillicons.dev/icons?i=styledcomponents" />
 </p>
 <br>
 
