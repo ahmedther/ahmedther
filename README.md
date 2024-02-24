@@ -18,7 +18,7 @@
 <br>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=py,js,ts,dart,html" />
-    <img style="padding-left: 4px;" src="/assets/sql.svg" alt="SVG LOGO" width="48" height="48" >
+    <img style="padding-left: 8px;" src="/assets/sql.svg" alt="SVG LOGO" width="48" height="48" >
 </p>
 
 <br>
@@ -27,12 +27,9 @@
 
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django" />
-    <img style="padding-left: 4px; padding-right: 4px;" src="/assets/django_rest.svg" alt="Django Rest FrameWork" width="48" height="48">
+    <img style="padding-left: 8px; padding-right: 8px;" src="/assets/django_rest.svg" alt="Django Rest FrameWork" width="48" height="48">
     <img src="https://skillicons.dev/icons?i=react,svelte,flutter,next,express,pug" />
-
-  </a>
 </p>
 <br>
 
