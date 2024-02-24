@@ -72,8 +72,8 @@
 
 <br>
 <p align="center">
-    &nbsp;<img  src="/assets/oracle.svg" alt="NumPy" width="48" height="48">&nbsp;
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+    &nbsp;<img  src="/assets/oracle.svg" alt="Oracle Logo" width="48" height="48">&nbsp;
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,redis" />
   </a>
 </p>
 <br>
@@ -83,7 +83,45 @@
 <br>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=rabbitmq" />
-    &nbsp;<img  src="/assets/oracle.svg" alt="NumPy" width="48" height="48">&nbsp;
+    &nbsp;<img  src="/assets/celery.svg" alt="Celery Logo" width="48" height="48">&nbsp;
+  </a>
+</p>
+<br>
+
+## 📓 Notebook Environments
+
+<br>
+<p align="center">
+    &nbsp;<img  src="/assets/jupyter.svg" alt="Jupyter Logo" width="48" height="48">&nbsp;
+    &nbsp;<img  src="/assets/google_colab.svg" alt="Google Colab Logo" width="48" height="48">&nbsp;
+  </a>
+</p>
+<br>
+
+## ☁️ DevOps
+
+<br>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" />
+  </a>
+</p>
+<br>
+
+## 🤖 Automation
+
+<br>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=selenium" />
+  </a>
+</p>
+<br>
+
+## 🌐 Web Servers
+
+<br>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=nginx" />
+    &nbsp;<img  src="/assets/apache.svg" alt="Apache Logo" width="48" height="48">&nbsp;
   </a>
 </p>
 <br>
@@ -106,4 +144,10 @@
 
 [![](https://visitcount.itsvg.in/api?id=ahmedther&icon=0&color=12)](https://visitcount.itsvg.in)
 
+<!-- Contribution Snake -->
+<p align="center"><img src="./assets/github-user-contribution.svg"></p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- Footer -->
+
+<img src="./assets/Footer.jpg">
