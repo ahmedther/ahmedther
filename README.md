@@ -19,8 +19,8 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,ts,dart,html" />
-    <span>
-    <img  src="/assets/sql.svg" alt="SVG LOGO" width="48" height="48">
+    <span><span style="margin: 3px;"> </span>
+    <img  style="background-color: #001B79; border-radius: 10px; width:48px; height:48px;" src="/assets/sql.svg" alt="SVG LOGO" >
 </span>
   </a>
 </p>
@@ -31,13 +31,15 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,react,svelte,flutter,next" />
-     <img src="/assets/django_rest.svg" alt="Django Rest FrameWork" width="80" height="80">
+    <img src="https://skillicons.dev/icons?i=django" />
+    <img style="background-color: #EEEDEB; border-radius: 10px; width:48px; height:48px" src="/assets/django_rest.svg" alt="Django Rest FrameWork" >
+    <img src="https://skillicons.dev/icons?i=react,svelte,flutter,next" />
+
   </a>
 </p>
 <br>
 
-## <⚛️> Frameworks / Libraries </⚛️>
+## <<img src="https://skillicons.dev/icons?i=react" width="30" height="30" style="align:bottom"/>> React Ecosystem </⚛️>
 
 <br>
 <p align="center">
