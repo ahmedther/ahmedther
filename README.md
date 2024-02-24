@@ -17,11 +17,10 @@
 
 <br>
 <p align="center">
-
     <img src="https://skillicons.dev/icons?i=py,js,ts,dart,html" />
     <img style="padding-left: 4px;" src="/assets/sql.svg" alt="SVG LOGO" width="48" height="48" >
-
 </p>
+
 <br>
 
 ## 🧬 Frameworks / Libraries
