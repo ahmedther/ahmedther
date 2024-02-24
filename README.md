@@ -19,7 +19,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,ts,dart,html" />
-    <img style="padding-left: 4px; color:white;" src="/assets/sql.svg" alt="SVG LOGO" width="48" height="48" >
+    <img style="padding-left: 4px; color:#fff;" src="/assets/sql.svg" alt="SVG LOGO" width="48" height="48" >
 
   </a>
 </p>
