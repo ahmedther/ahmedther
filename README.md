@@ -18,8 +18,7 @@
 <br>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=py,js,ts,dart,html" />
-    <span style="padding-left: 4px;"></span>
-    <img src="/assets/sql.svg" alt="SVG LOGO" width="48" height="48" >
+    &nbsp;<img src="/assets/sql.svg" alt="SVG LOGO" width="48" height="48" >
 </p>
 
 <br>
