@@ -34,13 +34,13 @@
 </p>
 <br>
 
-## <<img src="https://skillicons.dev/icons?i=react" width="30" height="30" style="align:bottom"/>> React Ecosystem </⚛️>
+## <⚛️> React Ecosystem </⚛️>
 
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=next,redux,styledcomponents," />
-  </a> 
+    <img src="https://skillicons.dev/icons?i=next"/>
+    &nbsp;<img  src="/assets/react_router.svg" alt="React Router" width="48" height="48">&nbsp;
+    <img src="https://skillicons.dev/icons?i=redux,styledcomponents," />
 </p>
 <br>
 
