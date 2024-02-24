@@ -19,8 +19,8 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,ts,dart,html" />
-    <span><span style="margin: 3px;"> </span>
-    <img  style="background-color: #001B79; border-radius: 10px; width:48px; height:48px;" src="/assets/sql.svg" alt="SVG LOGO" >
+    <span style="padding-left: 4px;">
+    <img  src="/assets/sql.svg" alt="SVG LOGO" width="48" height="48" >
 </span>
   </a>
 </p>
@@ -32,8 +32,8 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django" />
-    <img style="background-color: #EEEDEB; border-radius: 10px; width:48px; height:48px" src="/assets/django_rest.svg" alt="Django Rest FrameWork" >
-    <img src="https://skillicons.dev/icons?i=react,svelte,flutter,next" />
+    <img  src="/assets/django_rest.svg" alt="Django Rest FrameWork" width="48" height="48">
+    <img src="https://skillicons.dev/icons?i=react,svelte,flutter,next,express,pug" />
 
   </a>
 </p>
