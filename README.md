@@ -29,7 +29,7 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=django" />
     &nbsp;<img  src="/assets/django_rest.svg" alt="Django Rest FrameWork" width="48" height="48">&nbsp;
-    <img src="https://skillicons.dev/icons?i=react,svelte,flutter,next,express,pug" />
+    <img src="https://skillicons.dev/icons?i=react,svelte,flutter,next,nodejs,express,pug,webpack" />
 
 </p>
 <br>
@@ -43,6 +43,7 @@
     <img src="https://skillicons.dev/icons?i=redux" />
     &nbsp;<img  src="/assets/react_query.svg" alt="React Query" width="48" height="48">&nbsp;
     <img src="https://skillicons.dev/icons?i=styledcomponents" />
+    &nbsp;<img  src="/assets/next_auth.svg" alt="Next Auth" width="48" height="48">&nbsp;
 </p>
 <br>
 
@@ -52,6 +53,37 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=sass,css,tailwind" />
+  </a>
+</p>
+<br>
+
+## 📈 Data Analysis 📉
+
+<br>
+<p align="center">
+    &nbsp;<img  src="/assets/numpy.svg" alt="NumPy" width="48" height="48">&nbsp;
+    &nbsp;<img  src="/assets/pandas.svg" alt="Pandas" width="48" height="48">&nbsp;
+    &nbsp;<img  src="/assets/matplotlib.svg" alt="Matplotlib" width="48" height="48">&nbsp;
+  </a>
+</p>
+<br>
+
+## 🛢️ Databases
+
+<br>
+<p align="center">
+    &nbsp;<img  src="/assets/oracle.svg" alt="NumPy" width="48" height="48">&nbsp;
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+  </a>
+</p>
+<br>
+
+## 👥📋⏰ Msg Brokers & Task Queues
+
+<br>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=rabbitmq" />
+    &nbsp;<img  src="/assets/oracle.svg" alt="NumPy" width="48" height="48">&nbsp;
   </a>
 </p>
 <br>
