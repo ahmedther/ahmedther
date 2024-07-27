@@ -109,11 +109,11 @@
 </p>
 <br>
 
-## 🤖 Automation
+## 🤖 Automation and Testing
 
 <br>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=selenium" />
+    <img src="https://skillicons.dev/icons?i=selenium,jest" />
   </a>
 </p>
 <br>
