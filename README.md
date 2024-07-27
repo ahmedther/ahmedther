@@ -30,8 +30,9 @@
     <img src="https://skillicons.dev/icons?i=django" />
     &nbsp;<img  src="/assets/django_rest.svg" alt="Django Rest FrameWork" width="48" height="48">&nbsp;
     <img src="https://skillicons.dev/icons?i=react,svelte,flutter,next,nodejs,express,pug,webpack" />
-    &nbsp;<img  src="/assets/websocket.svg" alt="Django Rest FrameWork" width="48" height="48">&nbsp;
+    &nbsp;<span style="display: inline-block; width: 48px; height: 48px; background-color: #ffde00; border-radius: 10px;"> <img src="/assets/websocket.svg" alt="WebSocket Logo" width="48" height="48"></span>&nbsp;
     <img src="https://skillicons.dev/icons?i=graphql" />
+
 
 </p>
 <br>
@@ -41,11 +42,15 @@
 <br>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=next"/>
-    &nbsp;<img  src="/assets/react_router.svg" alt="React Router" width="48" height="48">&nbsp;
+    &nbsp;<span style="display: inline-block; width: 48px; height: 48px; background-color: #f4eeff; border-radius: 10px; padding: px;"> <img src="/assets/react-router.svg" alt="React Router" width="48" height="48"></span>&nbsp;
+    <span style="display: inline-block; width: 48px; height: 48px; background-color: #f4eeff; border-radius: 10px; display: flex; align-items: center; justify-content: center;"> 
+    <img src="/assets/react-router.svg" alt="React Router" style="width: calc(100% - 20px); height: calc(100% - 2px);">
+</span>&nbsp;
     <img src="https://skillicons.dev/icons?i=redux" />
     &nbsp;<img  src="/assets/react_query.svg" alt="React Query" width="48" height="48">&nbsp;
     <img src="https://skillicons.dev/icons?i=styledcomponents" />
     &nbsp;<img  src="/assets/next_auth.svg" alt="Next Auth" width="48" height="48">&nbsp;
+
 </p>
 <br>
 
