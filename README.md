@@ -30,6 +30,8 @@
     <img src="https://skillicons.dev/icons?i=django" />
     &nbsp;<img  src="/assets/django_rest.svg" alt="Django Rest FrameWork" width="48" height="48">&nbsp;
     <img src="https://skillicons.dev/icons?i=react,svelte,flutter,next,nodejs,express,pug,webpack" />
+    &nbsp;<img  src="/assets/websocket.svg" alt="Django Rest FrameWork" width="48" height="48">&nbsp;
+    <img src="https://skillicons.dev/icons?i=graphql" />
 
 </p>
 <br>
