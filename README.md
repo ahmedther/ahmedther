@@ -114,6 +114,7 @@
 <br>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=selenium,jest" />
+    &nbsp;<img  src="/assets/playwright.svg.svg" alt="PlayWright Logo" width="48" height="48">&nbsp;
   </a>
 </p>
 <br>
